@@ -9,7 +9,7 @@ const logo = (props) => {
     ];
     return(
         <h1 className={logoWithColorScheme.join(' ')} onClick={props.clicked}>
-            Simple Weather by Vijay
+            Weather App by Vijay
         </h1>
     );
 }
