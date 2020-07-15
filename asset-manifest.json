@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/simple-weather-app/static/css/main.e18b2057.chunk.css",
+    "main.js": "/simple-weather-app/static/js/main.4a691fd4.chunk.js",
+    "main.js.map": "/simple-weather-app/static/js/main.4a691fd4.chunk.js.map",
+    "runtime-main.js": "/simple-weather-app/static/js/runtime-main.ed1cee73.js",
+    "runtime-main.js.map": "/simple-weather-app/static/js/runtime-main.ed1cee73.js.map",
+    "static/js/2.d6aee609.chunk.js": "/simple-weather-app/static/js/2.d6aee609.chunk.js",
+    "static/js/2.d6aee609.chunk.js.map": "/simple-weather-app/static/js/2.d6aee609.chunk.js.map",
+    "index.html": "/simple-weather-app/index.html",
+    "precache-manifest.4b94f9fc499309acfd50582ac9023029.js": "/simple-weather-app/precache-manifest.4b94f9fc499309acfd50582ac9023029.js",
+    "service-worker.js": "/simple-weather-app/service-worker.js",
+    "static/css/main.e18b2057.chunk.css.map": "/simple-weather-app/static/css/main.e18b2057.chunk.css.map",
+    "static/js/2.d6aee609.chunk.js.LICENSE.txt": "/simple-weather-app/static/js/2.d6aee609.chunk.js.LICENSE.txt",
+    "static/media/Clear.svg": "/simple-weather-app/static/media/Clear.db9ab18c.svg",
+    "static/media/Cloud-wind.svg": "/simple-weather-app/static/media/Cloud-wind.a82005aa.svg",
+    "static/media/Clouds.svg": "/simple-weather-app/static/media/Clouds.7ee70f9f.svg",
+    "static/media/Drizzle.svg": "/simple-weather-app/static/media/Drizzle.425a2644.svg",
+    "static/media/Fog.svg": "/simple-weather-app/static/media/Fog.9248a8c1.svg",
+    "static/media/Haze.svg": "/simple-weather-app/static/media/Haze.82d93268.svg",
+    "static/media/Mist.svg": "/simple-weather-app/static/media/Mist.ffbda6d9.svg",
+    "static/media/Moon.svg": "/simple-weather-app/static/media/Moon.e3158b56.svg",
+    "static/media/Night-rainy.svg": "/simple-weather-app/static/media/Night-rainy.06f78ffe.svg",
+    "static/media/Night.svg": "/simple-weather-app/static/media/Night.7d9c9233.svg",
+    "static/media/Preview.svg": "/simple-weather-app/static/media/Preview.29a0aca0.svg",
+    "static/media/Rain.svg": "/simple-weather-app/static/media/Rain.708290b4.svg",
+    "static/media/Rainy-thunder.svg": "/simple-weather-app/static/media/Rainy-thunder.c623741c.svg",
+    "static/media/Rainy.svg": "/simple-weather-app/static/media/Rainy.b5e8855f.svg",
+    "static/media/Snow.svg": "/simple-weather-app/static/media/Snow.104ea80a.svg",
+    "static/media/Sun.svg": "/simple-weather-app/static/media/Sun.f963a166.svg",
+    "static/media/Sunshine.svg": "/simple-weather-app/static/media/Sunshine.a98369fb.svg",
+    "static/media/Tonado.svg": "/simple-weather-app/static/media/Tonado.cd8d7fce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed1cee73.js",
+    "static/js/2.d6aee609.chunk.js",
+    "static/css/main.e18b2057.chunk.css",
+    "static/js/main.4a691fd4.chunk.js"
+  ]
+}
