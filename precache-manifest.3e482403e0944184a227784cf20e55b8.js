@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3f2ab7c309453705d67bdcf005259e6",
+    "revision": "42a0c7d670a7bb936f79639976079db4",
     "url": "/simple-weather-app/index.html"
   },
   {
-    "revision": "83ea745e6a766f7526b8",
+    "revision": "15bf806287a3075547b7",
     "url": "/simple-weather-app/static/css/main.e18b2057.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-weather-app/static/js/2.d6aee609.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83ea745e6a766f7526b8",
-    "url": "/simple-weather-app/static/js/main.5d078d7e.chunk.js"
+    "revision": "15bf806287a3075547b7",
+    "url": "/simple-weather-app/static/js/main.57d81295.chunk.js"
   },
   {
     "revision": "1751b747bde2556bb8b4",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a98369fb7ac4ac2d522c92642bb69bc8",
     "url": "/simple-weather-app/static/media/Sunshine.a98369fb.svg"
+  },
+  {
+    "revision": "2bdafc273976d5aba8250a94c44e553b",
+    "url": "/simple-weather-app/static/media/Thunderstorm.2bdafc27.svg"
   },
   {
     "revision": "cd8d7fceea994a098c78b381e4e9916a",
